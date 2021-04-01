@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+.topPageHeader {
+  width: 100%;
+  height: 60px;
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topPageHeading {
+  border-bottom: 4px solid skyblue;
+}
